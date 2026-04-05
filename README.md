@@ -1,4 +1,3 @@
-# TextIQ 
 A multi-task NLP REST API built with FastAPI and HuggingFace Transformers.
 
 ## Features
