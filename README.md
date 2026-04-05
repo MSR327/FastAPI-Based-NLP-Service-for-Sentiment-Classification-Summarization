@@ -1,10 +1,10 @@
-# TextIQ 🧠
+# TextIQ 
 A multi-task NLP REST API built with FastAPI and HuggingFace Transformers.
 
 ## Features
-- 🎭 **Sentiment Analysis** — Positive / Negative detection
-- 🗂️ **Zero-Shot Classification** — Classify text into any custom categories
-- 📝 **Summarization** — Condense long text into key points
+-  **Sentiment Analysis** — Positive / Negative detection
+-  **Zero-Shot Classification** — Classify text into any custom categories
+-  **Summarization** — Condense long text into key points
 
 ## Tech Stack
 - FastAPI + Uvicorn
